@@ -3,4 +3,4 @@ Testing
 Devops
 Backend Engineering
 Data Engineering
-Data Scientist
+Frontend Engineering
