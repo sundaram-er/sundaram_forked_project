@@ -4,3 +4,5 @@ Devops
 Backend Engineering
 Data Engineering
 Frontend Engineering
+Data Analyst
+Data Scientist
