@@ -4,3 +4,5 @@ Devops
 Backend Engineering
 Data Engineering
 Data Scientist
+Data Analyst
+ML Engineering
