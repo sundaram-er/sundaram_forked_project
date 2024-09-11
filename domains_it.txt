@@ -6,3 +6,5 @@ Data Engineering
 Frontend Engineering
 Data Analyst
 Data Scientist
+Data Analyst
+ML Engineering
