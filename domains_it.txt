@@ -8,4 +8,4 @@ Data Analyst
 Data Scientist
 Data Analyst
 ML Engineering
-AI/ML Engineering
+AI Engineering
